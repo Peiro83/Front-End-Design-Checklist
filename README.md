@@ -11,7 +11,7 @@
 * **[1. Requerimentos de diseño](#1---Requerimentos-de-diseño)**
 	* [1.1 Sistema de retículas](#11---sistema-de-retículas)
 	* [1.2 Colores](#12---colores)
-	* [1.3 Fonts and texts](#13---fonts-and-texts)
+	* [1.3 Fuentes y textos](#13---fuentes-y-textos)
 	* [1.4 Links and navigation](#14---links-and-navigation)
 	* [1.5 Images / Icons](#15---images--icons)
 	* [1.6 Forms and buttons](#16---forms-and-buttons)
@@ -110,36 +110,37 @@ __Recursos adicionales:__ (recursos en inglés)
 
 **[⬆ volver a arriba](#tabla-de-contenidos)**
 
-### 1.3 - Fonts and texts
+### 1.3 - Fuentes y textos
 
-![Fonts](/images/fonts.png)
+![Fuentes](/images/fonts.png)
 
-Fonts are an essential part of every design, they shouldn’t be chosen without discernment. Choosing the wrong font for a project could have financial and legal impacts.
+Las fuentes son una parte escencial de cada diseño, no deben ser elegidas sin un buen juicio. Elegir la fuente incorrecta para un proyecto puede tener consecuencias de impacto financiero y legal.
 
-It is recommended to ask your client to buy these fonts to avoid possible future issues and take into consideration the condition of use. Some webfonts are limited in terms of pageviews and can’t be hosted ([Understanding Webfont Licensing Structures](https://aeolidia.com/understanding-webfont-licensing-structures/)).
+Es recomendable solicitar a tu cliente comprar estas fuentes para evitar posibles problemas a futuro y tomar en consideración las condiciones de uso. Algunas fuentes para web están limitadas en terminos de vistas por página y no pueden ser almacenadas en tu hosting. ([Understanding Webfont Licensing Structures](https://aeolidia.com/understanding-webfont-licensing-structures/)).
 
-* [ ] The fonts for desktop (TTF or OTF in general) and the webfonts, in **WOFF, WOFF2 and TTF format** were provided (in a Zip file or given access to the website where they were bought).
-	> ℹ️ TTF format for desktop is not the same than TTF for Web.
 
-  __Resources:__
-	* 📖 [Using @font-face | CSS-Tricks](https://css-tricks.com/snippets/css/using-font-face/)
-* [ ] [Fallback font](https://en.wikipedia.org/wiki/Fallback_font) stacks were specified in a document (ideally the Style Guide) to the Front-End Developer.
+* [ ] Las fuentes para escritorio (TTF o OTF) y las fuentes web, en **formato WOFF, WOFF2 y TTF** fueron proporcionadas (en un archivo Zip o se dio acceso al sitio web donde fueron compradas)
+	> ℹ️ El formato TTF para escritorio no es el mismo que el TTF para web.
 
-  __Resources:__
+  __Recursos:__  (recursos en inglés)
+	* 📖 [Using @font-face | CSS-Tricks](https://css-tricks.com/snippets/css/using-font-face/) Uso de la propiedad @font-face
+* [ ] Una [fuente de respaldo](https://en.wikipedia.org/wiki/Fallback_font) fue especificada en el documento (idealmente en la Guía de estilos) para el Desarrollador Front-end.
+
+  __Recursos:__ (recursos en inglés)
   * 📖 [CSS Basics: Fallback Font Stacks for More Robust Web Typography | CSS-Tricks](https://css-tricks.com/css-basics-fallback-font-stacks-robust-web-typography/)
   * [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 
-* [ ] The **total weight** of the all webfonts don’t exceed 1-2 Mb (all variants included: italic, bold etc).
+* [ ] El **tamaño total** de las fuentes no debe exceder de 1 a 2 Mb (incluyendo todas las variantes: italica, negrita, etc.)
 
-* [ ] As far as possible, **all texts are provided in the the proper language** instead of dummy texts in English (Lorem Ipsum and affiliates).
+* [ ] Tanto como sea posible, **todos los textos son proporcionados en el lenguaje adecuado** en vez de textos de ejemplo (Lorem Ipsum y similares).
 
-	> ℹ️ In case of a multilingual website, always ask yourself how the design can react if the text is longer than it was previously define. Remember that Web Designers use to create perfect designs and don’t always think about possible issues or situation with too much text.
+	> ℹ️ En el caso de sitios web multilenguaje, siempre preguntate a ti mismo cómo reaccionaría el diseño si los textos fueran más largos de lo que fueron definidos anteriormente. Recuerda que los Diseñadores Web acostumbran crear diseños perfectos y no siempre piensan sobre los posibles problemas o situaciones con demasiado texto. 
 
-__Additional Resources:__
-* 📖 [Web Font Optimization  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization)
-* [`font-display` for the Masses | CSS-Tricks](https://css-tricks.com/font-display-masses/)
+__Recursos adicionales:__ 
+* 📖 [Optimización de fuentes web  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization) disponible en Español
+* [`font-display` for the Masses | CSS-Tricks](https://css-tricks.com/font-display-masses/) contenido en inglés
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
 ### 1.4 - Links and navigation
 
