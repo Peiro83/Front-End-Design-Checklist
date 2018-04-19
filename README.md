@@ -114,7 +114,7 @@ __Recursos adicionales:__ (recursos en inglés)
 
 ![Fuentes](/images/fonts.png)
 
-Las fuentes son una parte escencial de cada diseño, no deben ser elegidas sin un buen juicio. Elegir la fuente incorrecta para un proyecto puede tener consecuencias de impacto financiero y legal.
+Las fuentes son una parte esencial de cada diseño, no deben ser elegidas sin un buen juicio. Elegir la fuente incorrecta para un proyecto puede tener consecuencias de impacto financiero y legal.
 
 Es recomendable solicitar a tu cliente comprar estas fuentes para evitar posibles problemas a futuro y tomar en consideración las condiciones de uso. Algunas fuentes para web están limitadas en terminos de vistas por página y no pueden ser almacenadas en tu hosting. ([Understanding Webfont Licensing Structures](https://aeolidia.com/understanding-webfont-licensing-structures/)).
 
