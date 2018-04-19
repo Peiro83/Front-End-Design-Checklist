@@ -2,14 +2,14 @@
 <h2 align="center">Front-End Design Checklist</h2>
 
 <p align="center">
-  <em> The Design Checklist for Front-End Developers is an exhaustive list of elements which can help developers to analyse and understand web designs and ensure the quality of their Front-End development.</em>
+  <em> The Design Checklist para Desarrolladores Front-end es una lista exhaustiva de elementos que pueden ayudar al desarrollador a analizar y entender diseños para web para asegurar la calidad del desarrollo Front-end .</em>
 </p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist](https://badges.gitter.im/Front-End-Checklist/Front-End-Design-Checklist.svg)](https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist) [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## Table of Contents
-* **[1. Design requirements](#1---design-requirements)**
-	* [1.1 Grid system](#11---grid-system)
+## Tabla de contenidos
+* **[1. Requerimentos de diseño](#1---Requerimentos-de-diseño)**
+	* [1.1 Sistema de retículas](#11---sistema-de-retículas)
 	* [1.2 Colors](#12---colors)
 	* [1.3 Fonts and texts](#13---fonts-and-texts)
 	* [1.4 Links and navigation](#14---links-and-navigation)
@@ -27,40 +27,40 @@
 
 ---
 
-> The **Design Checklist for Front-End Developers** is an exhaustive list of elements which Web Designers and Front-End Developers need to take into consideration to facilitate their collaboration. The following elements are a mix between known practices and new elements based on a long experience analysing web designs.
+> The **Design Checklist para Desarrolladores Front-end** es una lista exhaustiva de elementos que los Diseñadores Web y Desarrolladores Fron-end necesitan tomar en consideración para facilitar su colaboración. Los siguientes elementos son una mezcla entre mejores prácticas y elementos basados en amplia experiencia analizando diseños para web.
 
-In case you are looking for a list of all elements you need to have/to test before launching your site/HTML page to production, take a look on the → [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist).
-
-
-## How to use the Design Checklist?
-
-When comes the moment where developers discover new web designs, before converting them to code, some important elements may be missing. The Front-End Design Checklist is a tool for Front-End developers and Web Designers which aim to help both to work in a seamlessly way.
-
-You can share that checklist to Web Designers to ensure time will be saved at the delivery time or you can use it to review all elements delivered by the creative team and ensure everything is correct before digging into the code integration.
+En caso de buscar una lista de todos los emementos que debes tener/probar antes de lanzar un sitio/página HTML a producción, dale un vistazo a → [Front-End Checklist](https://github.com/eoasakura/Front-End-Checklist-ES).
 
 
-## Why you need to use the Design Checklist?
+## ¿Cómo usar The Desing CHecklist?
 
-* Ensure all points are taken into consideration by the Creative Team
-* Having a document where Web Designers and Developers can rely to ensure a better communication and coherence in the way they interact.
-* Because it's easy to forget some important elements when you are pushed by short timelines
-* Avoid discovering issues after the creative team is already working on another project.
-* To show the complementary work between a Web Designer and a Front-End Developer
+Cuando llega el momento en que desarrolladores descubren nuevos diseños para web, antes de convertirlos a código, algunos elementos puedes pasar desapercibidos. The Front-end- Design Checklist es una herramienta para desarrolladores Front-end y Diseñadores Web que tiene el objetivo de ayudarlos a trabajar sin problemas.
+
+Puedes compartir esta lista con Diseñadores Web para asegurar ahorrar tiempo en las entregas o puedes utilizarla para revisar todos los elementos proporcionados por el equipo creativo y asegurar que todo está correcto antes de comenzar con la integración de código.
+
+
+## ¿Por qué necesitas usar esto?
+
+* Asegurar que todos los puntos son tomados en consideración por el equipo creativo.
+* Tener un documento que los Diseñadores y Desarrolladores puedan consultar para asegurar una mejor comunicación y coherencia en la manera en que interactuan.
+* Porque es fácil olvidar elementos importantes cuando eres presionado por tiempos de entrega cortos
+* Evitar descubrir problemas cuando el equipo creativo ya está trabajando en otro proyecto.
+* Para mostrar el trabajo complementario entre Diseñadores y Desarrolladores
 
 ---
 
-## 1. - Design requirements
+## 1. - Requerimentos de diseño
 
-Designing a website or a webapp requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
+Diseñar un sitio web o aplicación web requiere seguir algunas reglas y tomar en consideración que el proyecto no es solo un proyecto gráfico, sino también un proyecto web. La siguiente seción es crucial para cualquier proyecto web.
 
-### 1.1 - Grid system
+### 1.1 - Sistema de retículas
 
 ![Grid system](/images/grid-system.png)
 
-* [ ] A **grid** is explicitly provided in the design, and the details of the grid are present in the technical specification (width, gutters, number of columns…). The Web Designer can keep the grid in a transparent layer and use it on all his project.
-	> ℹ️ [Guide Guide][6] is a plugin for Photoshop that can help you easily build your grid.
+* [ ] Una **retícula** es explícitamente proporcionada en el diseño y los detalles de ella están presentes en las especificaciones técnicas (ancho, medianiles, números de columnas...). El Diseñador Web puede mantener una retícula en una capa transparente y utilizarla en todos el proyecto.
+	> ℹ️ [Guide Guide][6] es un plugin para Photoshop que puede ayudar a construir facilmente tu retícula.
 
-	> ℹ️ On Sketch, you can use the integrated “[Make Grid Tool][7]” to design your desired grid.
+	> ℹ️ En Sketch, puedes usar la herramienta integrada “[Make Grid][7]” para diseñar tu retícula.
 
 * [ ] **Be familiar with the grid system** you’ll use on your project. Most of the time, some options (like alignment, offsetting, nesting…) are ignored by the developer and tend to be replaced by manual padding or margin unnecessarily.
 * [ ] Before working on each components of your website, you can **build every templates** used in the creatives only with the grid classes. Building the structure before everything else, will facilitate your work afterwards.
