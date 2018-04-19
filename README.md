@@ -34,7 +34,7 @@ En caso de buscar una lista de todos los emementos que debes tener/probar antes 
 
 ## ¿Cómo usar The Desing Checklist?
 
-Cuando llega el momento que se les presenta a desarrolladores nuevos diseños para web, antes de convertirlos a código, se deben considerar elementos que podrían pasar desapercibidos. The Front-end- Design Checklist es una herramienta para desarrolladores Front-end y Diseñadores Web que tiene el objetivo de ayudarlos a trabajar sin problemas.
+Cuando llega el momento que se les presenta a desarrolladores nuevos diseños para web, antes de convertirlos a código, se deben considerar elementos que podrían pasar desapercibidos. The Front-end Design Checklist es una herramienta para desarrolladores Front-end y Diseñadores Web que tiene el objetivo de ayudarlos a trabajar sin problemas.
 
 Puedes compartir esta lista con Diseñadores Web para asegurar ahorrar tiempo en las entregas o puedes utilizarla para revisar todos los elementos proporcionados por el equipo creativo y asegurar que todo está correcto antes de comenzar con la integración de código.
 
@@ -51,7 +51,7 @@ Puedes compartir esta lista con Diseñadores Web para asegurar ahorrar tiempo en
 
 ## 1. - Requerimentos de diseño
 
-Diseñar un sitio web o aplicación web requiere seguir algunas reglas y tomar en consideración que el proyecto no es solo un proyecto gráfico, sino también un proyecto web. La siguiente seción es crucial para cualquier proyecto web.
+Diseñar un sitio web o aplicación web requiere seguir algunas reglas y tomar en consideración que el proyecto no es solo un proyecto gráfico, sino también un proyecto web. La siguiente sección es crucial para cualquier proyecto web.
 
 ### 1.1 - Sistema de retículas
 
@@ -62,34 +62,34 @@ Diseñar un sitio web o aplicación web requiere seguir algunas reglas y tomar e
 
 	> ℹ️ En Sketch, puedes usar la herramienta integrada “[Make Grid][7]” para diseñar tu retícula.
 
-* [ ] **Be familiar with the grid system** you’ll use on your project. Most of the time, some options (like alignment, offsetting, nesting…) are ignored by the developer and tend to be replaced by manual padding or margin unnecessarily.
-* [ ] Before working on each components of your website, you can **build every templates** used in the creatives only with the grid classes. Building the structure before everything else, will facilitate your work afterwards.
+* [ ] **Familiarizate con el sistema de retícula** que usarás en tu proyecto. La mayoría de las ocasiones, algunas opciones (como alineación, offsett, anidamiento...) son ignoradas por el desarrollador y tienden a remplazarlas innecesariamente por márgenes o relleno manual.
+* [ ] Antes de trabajar en cada componente de tu sitio web, puedes **construir cada plantilla** usada en los diseños solo con las clases de la retícula. Construir la estructura antes que nada, te facilitará tu trabajo posterior.
 
 ```html
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <!-- Let empty at first -->
+      <!-- Déjalo vacío al inicio -->
     </div>
     <div class="col-sm">
-      <!-- Let empty at first -->
+      <!-- Déjalo vacío al inicio -->
     </div>
     <div class="col-sm">
-      <!-- Let empty at first -->
+      <!-- Déjalo vacío al inicio -->
     </div>
   </div>
 </div>
 ```
 
-⚠️ *If you want to ensure that the grid and the width of the devices are respected, you may want to generate yourself a PSD template and that you will send it to the Web Designer.*
+⚠️ *Si quieres asegurarte que la retícula y el ancho de los dispositivos sean respetados, podrías generar una plantilla PSD que le envies al Diseñador Web*
 
-__Additional Resources:__
+__Recursos adicionales:__
 
-* 🛠 [Bootstrap Grid System][8] (v4)
-* 🛠 [Flexbox Grid][9]
+* 🛠 [Bootstrap Grid System][8] (v4) ´retícula de Bootstrap´
+* 🛠 [Flexbox Grid][9] ´Sistema de retícula aplicando Flexbox´
 * 📖 [Don't Overthink It Grids | CSS-Tricks][10]
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
 ### 1.2 - Colors
 
