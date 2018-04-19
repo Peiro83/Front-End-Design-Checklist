@@ -32,9 +32,9 @@
 En caso de buscar una lista de todos los emementos que debes tener/probar antes de lanzar un sitio/página HTML a producción, dale un vistazo a → [Front-End Checklist](https://github.com/eoasakura/Front-End-Checklist-ES).
 
 
-## ¿Cómo usar The Desing CHecklist?
+## ¿Cómo usar The Desing Checklist?
 
-Cuando llega el momento en que desarrolladores descubren nuevos diseños para web, antes de convertirlos a código, algunos elementos puedes pasar desapercibidos. The Front-end- Design Checklist es una herramienta para desarrolladores Front-end y Diseñadores Web que tiene el objetivo de ayudarlos a trabajar sin problemas.
+Cuando llega el momento que se les presenta a desarrolladores nuevos diseños para web, antes de convertirlos a código, se deben considerar elementos que podrían pasar desapercibidos. The Front-end- Design Checklist es una herramienta para desarrolladores Front-end y Diseñadores Web que tiene el objetivo de ayudarlos a trabajar sin problemas.
 
 Puedes compartir esta lista con Diseñadores Web para asegurar ahorrar tiempo en las entregas o puedes utilizarla para revisar todos los elementos proporcionados por el equipo creativo y asegurar que todo está correcto antes de comenzar con la integración de código.
 
