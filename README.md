@@ -10,7 +10,7 @@
 ## Tabla de contenidos
 * **[1. Requerimentos de diseño](#1---Requerimentos-de-diseño)**
 	* [1.1 Sistema de retículas](#11---sistema-de-retículas)
-	* [1.2 Colors](#12---colors)
+	* [1.2 Colores](#12---colores)
 	* [1.3 Fonts and texts](#13---fonts-and-texts)
 	* [1.4 Links and navigation](#14---links-and-navigation)
 	* [1.5 Images / Icons](#15---images--icons)
@@ -55,7 +55,7 @@ Diseñar un sitio web o aplicación web requiere seguir algunas reglas y tomar e
 
 ### 1.1 - Sistema de retículas
 
-![Grid system](/images/grid-system.png)
+![Sistema de retícula](/images/grid-system.png)
 
 * [ ] Una **retícula** es explícitamente proporcionada en el diseño y los detalles de ella están presentes en las especificaciones técnicas (ancho, medianiles, números de columnas...). El Diseñador Web puede mantener una retícula en una capa transparente y utilizarla en todos el proyecto.
 	> ℹ️ [Guide Guide][6] es un plugin para Photoshop que puede ayudar a construir facilmente tu retícula.
@@ -83,32 +83,32 @@ Diseñar un sitio web o aplicación web requiere seguir algunas reglas y tomar e
 
 ⚠️ *Si quieres asegurarte que la retícula y el ancho de los dispositivos sean respetados, podrías generar una plantilla PSD que le envies al Diseñador Web*
 
-__Recursos adicionales:__
+__Recursos adicionales:__ (recursos en inglés)
 
-* 🛠 [Bootstrap Grid System][8] (v4) ´retícula de Bootstrap´
-* 🛠 [Flexbox Grid][9] ´Sistema de retícula aplicando Flexbox´
+* 🛠 [Bootstrap Grid System][8] (v4) retícula de Bootstrap
+* 🛠 [Flexbox Grid][9] Sistema de retícula aplicando Flexbox
 * 📖 [Don't Overthink It Grids | CSS-Tricks][10]
 
 **[⬆ volver a arriba](#tabla-de-contenidos)**
 
-### 1.2 - Colors
+### 1.2 - Colores
 
-![Colors](/images/colors.png)
+![Colores](/images/colors.png)
 
-* [ ] **All colors used in the creatives are named** ($gray-light, $gray-dark, $green) or accordingly with their use ($body-background, $body-copy, $text-paragraph…). They can be exported in an [ACO file][11] (if use Photoshop or on a symbol page for Sketch) and shared with the developers.
+* [ ] **A todos los colores usados en los diseños se les asigna un nombre** ($gris-claro, $gris-oscuro, $verde), este puede ser de acuerdo a su uso ( $fondo-de-página, $texto, $títulos...) Pueden ser exportados en un [archivo ACO][11] (si usas Photoshop o un símbolo de página para Sketch) y compartirlo con los desarrolladores.
 
-![Color Swatches](/images/color-swatches.jpg)
+![Muestras de color](/images/color-swatches.jpg)
 
-* [ ] The different **color state** of some elements (like buttons, links, inputs...) are defined and worked in the context of a light or dark background and with a light or a dark text.
+* [ ] Los diferentes **colores de estado** de algunos elementos (como botones, enlaces, campos de texto) son definidos y trabajados en el contexto de un fondo claro y oscuro con texto claro y oscuro.
 
-* [ ] All or the most important/used **colors are accessible** in the design to allow a fluid navigation on the website/webapp.
+* [ ] Los colores más usados o los más importantes **son accesibles**(contraste entre colores adecuado) en el diseño para permitir una navegación fluida en el sitio web/aplicación web.
 
-__Additional Resources:__
-* 🛠 [WCAG - Contrast Checker](https://contrastchecker.com/)
-* 🛠 [Color Safe - accessible web color combinations](http://colorsafe.co/)
+__Recursos adicionales:__ (recursos en inglés)
+* 🛠 [WCAG - Contrast Checker](https://contrastchecker.com/) Herramienta para verificar contraste de colores
+* 🛠 [Color Safe - accessible web color combinations](http://colorsafe.co/) Recomendaciones de colores accesibles
 * 🛠 [Coolors.co - The super fast color schemes generator](https://coolors.co/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
 ### 1.3 - Fonts and texts
 
