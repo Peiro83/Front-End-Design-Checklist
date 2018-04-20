@@ -158,7 +158,7 @@ __Recursos adicionales:__
   __Recursos:__
   * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)
 
-* [ ] Todos los íconos son proporcionados en **formato SVG**, cada uno en la mismas dimensiones, en negro y por carpetas separadas.
+* [ ] Todos los íconos son proporcionados en **formato SVG**, cada uno con las mismas dimensiones, en negro y por carpetas separadas.
 
   __Recursos:__
   * 🛠 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
@@ -170,23 +170,23 @@ __Recursos adicionales:__
 
 **[⬆ volver a arriba](#tabla-de-contenidos)**
 
-### 1.6 Forms and buttons
+### 1.6 Formularios y botones
 
-![Forms](/images/form.png)
+![Formularios](/images/form.png)
 
-* [ ] All forms possess a title that can be used as a legend
-* [ ] An example of the **different states of all input fields** were provided (at least focus and inactive/disabled state).
-* [ ] **All error messages** were provided, the text (eventually in a separated document) the position and the color are clearly identifiable in the creatives and consistent. Some messages should be different according to the error.
-  __Resources:__
+* [ ] Todos los furmularios poseen un título que puede ser usado como leyenda
+* [ ] Un ejemplo de los **diferentes estados de todos los campos de entrada** fueron proporcionados (al menos los estados focus e inactivo/deshabilitado).
+* [ ] Todos los **mensajes de error** fueron proporcionados , el texto (en un documento separado), la posición y colores son claramente identificados en los diseños y son consistentes. Algunos mensajes deben ser diferentes de acuerdo al error correspondiente.
+  __Recursos:__
   * 📖 [Forms Need Validation – UX Collective](https://uxdesign.cc/forms-need-validation-2ecbccbacea1)
-* [ ] **Indicators of required/optional** fields are provided.
-* [ ] The **primary and secondary buttons** are clearly identifiable and are used following common practices.
-  __Resources:__
+* [ ] **Indicadores para  campos requeridos/opcionales** son proporcionados.
+* [ ] Los **botones primarios y secundarios** son claramente identificables y son usados siguiendo prácticas comunes.
+  __Recursos:__
   * 📖 [Primary & Secondary Action Buttons – UX Planet](https://uxplanet.org/primary-secondary-action-buttons-c16df9b36150)
-* [ ] An example of the **different states of a button** were provided (Normal, hover, focused, pressed and inactive state).
-* [ ] Buttons with built-in **loading indicators** are provided and can be applied to any button.
+* [ ] Un ejemplo de los **diferentes estados de un botón** fueron proporcionados (estados default, hover, focused, pressed e inactive)
+* [ ] Botones con **indicadores de carga** incorporados son proporcionados y pueden aplicarse a cualquier boton.
 
-__Additional Resources:__
+__Recursos adicionales:__
 
 * 📖 [Design Better Forms – UX Collective](https://uxdesign.cc/design-better-forms-96fadca0f49c)
 * 📖 [Design Better Input Fields – UX Collective](https://uxdesign.cc/design-better-input-fields-3d02985a8e24)
@@ -195,7 +195,7 @@ __Additional Resources:__
 * 📖 [How To Design Better Buttons — Smashing Magazine](https://www.smashingmagazine.com/2016/11/a-quick-guide-for-designing-better-buttons/)
 * 📖 [Buttons in Design Systems – EightShapes – Medium](https://medium.com/eightshapes-llc/buttons-in-design-systems-eac3acf7e23)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
 ### 1.7 - Responsive Web Design
 
