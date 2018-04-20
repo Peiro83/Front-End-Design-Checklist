@@ -16,7 +16,7 @@
 	* [1.5 Imágenes / Iconos](#15---imágenes--iconos)
 	* [1.6 Formularios y botones](#16---formularios-y-botones)
 	* [1.7 Diseño Web Responsivo](#17---diseño-web-responsivo)
-	* [1.8 Guía de estilos y enfoque de componentes](#18---guia-de-estilos-y-enfoque-de-componentes)
+	* [1.8 Guía de estilos y enfoque de componentes](#18---guía-de-estilos-y-enfoque-de-componentes)
 	* [1.9 Delivery files](#19---delivery-files)
 * **[2. Fases de análisis y previo al desarrollo](#2---fases-de-análisis-y-previo-al-desarrollo)**
 	* [2.1 Análisis en papel](#21---análisis-en-papel)
