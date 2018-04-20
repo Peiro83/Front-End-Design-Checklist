@@ -18,9 +18,9 @@
 	* [1.7 Diseño Web Responsivo](#17---diseño-web-responsivo)
 	* [1.8 Guía de estilos y enfoque de componentes](#18---guia-de-estilos-y-enfoque-de-componentes)
 	* [1.9 Delivery files](#19---delivery-files)
-* **[2. Analysis and pre-work phases](#2---analysis-and-pre-work-phases)**
-	* [2.1 Paper analysis](#21---paper-analysis)
-	* [2.2 Pre-development phase](#22---pre-development-phase)
+* **[2. Fases de análisis y previo al trabajo](#2---fases-de-análisis-y-previo-al-trabajo)**
+	* [2.1 Análisis en papel](#21---análisis-en-papel)
+	* [2.2 Fase antes del desarrollo](#22---fase-antes-del-desarrollo)
 * **[3. Validation](#3---validation)**
 * **[4. Development phase](#4---development-phase)**
 * **[5. Before production](#5---before-production)**
@@ -264,54 +264,54 @@ __Recursos adicionales:__
 
 **[⬆ volver a arriba](#tabla-de-contenidos)**
 
-## 2. - Analysis and pre-work phases
+## 2. - Fases de análisis y previo al trabajo
 
 ![Analysis and phases](/images/phases.png)
 
-Before starting the analysis and the pre-work phases and after receiving the creative files, you need to check some important elements:
+Antes de iniciar las fases de  análisis y previo al trabajo y después de recibir los archivos de diseño, necesitas verificar algunos elementos importantes:
 
-* __*Which version of Photoshop, Sketch is used?*__
-  Some features are specific to some versions of Photoshop or Sketch. It is important to flag any issue regarding this as soon as possible.
-* __*Is the width of each PSD or artboard correct?*__
-  In case some space is added on each side of the design, check the exact width of the website.
-* __*Are the creatives using too much “box-shadow”, “linear or radial gradient”…?*__
-  Don’t forget the .... Effect which can have impacts on the browser painting performance.
-* __*Is a sitemap / breadcrumb provided to understand the architecture of all pages and their dependencies?*__
-* __*Does the website needs to have retina images?*__
+* __*¿Cuál versión de Photoshop, Sketch es usada?*__
+  Algunas funciones son específicas de algunas versiones de Photoshop o Sketch. Es importante marcar cualquier problema que corresponda a esto tan pronto como sea posible.
+* __*¿El ancho de cada PSD o artboard son correctos?*__
+  En caso de que se añada espacios en cada lado del diseño, verifica el tamaño exacto del sitio web.
+* __*¿Los diseños usan demasiado "box-shadow", "linear o radial gradient"?*__
+  No olvides que ciertas propiedades pueden tener impacto en el rendimiento del navegador.
+* __*¿Existe un mapa del sitio/breadcrumb para entender la arquitectura de todas las páginas y sus dependencias?*__
+* __*¿El sitio web necesita tener imágenes retina?*__
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
-### 2.1 - Paper analysis
+### 2.1 - Análisis en papel
 
-![Paper Analysis](/images/analysis.png)
+![Análisis en papel](/images/analysis.png)
 
-It is recommended **printing** some (or all) of the pages you have on an A3 format (or A4 if you don’t have this format). Because of the height of the page. you’ll probably need to print some designs on multiple pages.
+Se recomienda **imprimir** algunas (o todas) las páginas que tengas en formato A3 (o A4 si no posees ese formato). Debido al alto de la página, probablemente necesites imprimir algunos diseños en multiples páginas.
 
-I can’t imagine a better way to start than analysing creatives on a paper with a pencil (or different colourful pencils choosed to highlight different type of informations).
+No puedo imaginar una mejor forma de iniciar que analisando los diseños en papel con un lapiz (o diferentes lapices de colores seleccionados para resaltar diferentes tipos de información).
 
-1. Define the **structure of the pages**, the headers, the sections, the articles, main, footer outlining these on at least one printed page.
+1. Define la **estructura de las páginas**, encabezados, secciones, artículos, área principal, pie de página destacando estos al  menos en una página impresa.
 
-2. Find all the **headings** that structured a page, ensure the `H1` is not on the logo and that the logical order is followed. Most of the time, the H1 for the homepage will be hidden with CSS but needs to keep its legitimate meaning. That analysis should be done with the help of a SEO specialist in case you have one in your team.
+2. Encuentra todos los **encabezados** en la estructura de página, asegurate que la etiqueta `H1`no se encuentre en el logo y que el orden lógico sea seguido. La mayoría de la veces, el H1 en la página de inicio será ocultado con CSS pero necesita mantener su significado legítimo. El análisis debe ser realizado con la ayuda de un especialista en SEO en caso de contar con uno en el equipo.
 
-3. Try to find and regroup **similar components** giving them an individual name regarding their functionality and not just their context. For example, naming a tab system “
+3. Intenta encontrar y reagrupar **componentes similares** asignandoles un nombre individual de acuerdo a su funcionalidad y no solo por su contexto.
 
-4. Most of the creative elements can be **done using CSS**. Today, it is not recommended to create any layout element using images. Any simple graphical element like buttons or borders should be done in CSS to avoid performance or scalability issues.
+4. La mayoría de los elementos de diseño pueden realizarse *usando CSS*. Hoy en día, es recomendado no usar ningun elemento de estructura usando imágenes. Cualquier elemento gráfico simple, como botones o bordes pueden ser echos en CSS para evitar problemas de rendimiento o escalabilidad.
 
-5. Find some **possible lack of coherence**, in case a Styleguide was not provided by the creative team, it’s your responsibility to ensure that every graphic element belong to a possible category (Buttons, Typography, Sliders…). It’ll help you to create your own CSS / Sass architecture or to identify which component you’ll need from an identified CSS Framework.
+5. Encuentra **posibles faltas de coherencia** en caso de no recibir una Guia de Estilo del equipo creativo, es tu responsabilidad asegurar que cada elemento gráfico pertenezca a una categoría (botones, tipografía, sliders,etc.). Te ayudará a crear tu propia arquitectura CSS/Sass o identificar cuáles componentes necesitarás de determinado Framework CSS.
 
-⚠️ *After the paper analysis phase, you can invite the creative team to use a tool like [InVision](https://www.invisionapp.com/), to facilitate the communication and exchange between the creative team and the developers. The possibility to comment directly on pages can be a time-saver and allow to keep a history of modifications and decisions.*
+⚠️ *Despues de la fase de análisis en papel, invita al equipo creativo a usar una herramienta como [InVision](https://www.invisionapp.com/) para facilitar la comunicación e intercambio entre el equipo creativo y los desarrolladores. La posibilidad de comentar en cada página puede ahorrar tiempo y permitir mantener un historial de modificaciones y decisiones.*
 
-### 2.2 - Pre-development phase
+### 2.2 - Fase antes del desarrollo
 
-* [ ] According to the specifications, **plugins needed were defined** in an early stage. Having a pre-list of possible plugins before starting the development can help the developer to stay focus and not spend too much time in doing research during the development phase. Obviously, some plugins may not perfectly fit and will be changed accordingly.
+* [ ] De acuerdo a las especificaciones, **los plugins necesarios fueron definidos** en una etapa temprana. Tener una lista previa de los plugins necesarios antes de comenzar el desarrollo puede ayudar al desarrollador a mantenerse enfocado y no ocupar mucho tiempo en investigar durante la fase de desarrollo. Obviamente, algunos plugins no serán adecuados y podrán cambiar.
 
-__Additional Resources:__
+__Recursos adicionales:__
 
 * 🛠 [Awesome JS][22]
 * 🛠 [BestOfJS][23]
 
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
 ## 3. - Validation
 
