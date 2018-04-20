@@ -17,13 +17,13 @@
 	* [1.6 Formularios y botones](#16---formularios-y-botones)
 	* [1.7 Diseño Web Responsivo](#17---diseño-web-responsivo)
 	* [1.8 Guía de estilos y enfoque de componentes](#18---guía-de-estilos-y-enfoque-de-componentes)
-	* [1.9 Delivery files](#19---delivery-files)
+	* [1.9 Entrega de archivos](#19---entrega-de-archivos)
 * **[2. Fases de análisis y previo al desarrollo](#2---fases-de-análisis-y-previo-al-desarrollo)**
 	* [2.1 Análisis en papel](#21---análisis-en-papel)
 	* [2.2 Fase antes del desarrollo](#22---fase-antes-del-desarrollo)
 * **[3. Validación](#3---validación)**
-* **[4. Development phase](#4---development-phase)**
-* **[5. Before production](#5---before-production)**
+* **[4. Fase de desarrollo](#4---fase-de-desarrollo)**
+* **[5. Antes de producción](#5---antes-de-producción)**
 
 ---
 
@@ -315,64 +315,67 @@ __Recursos adicionales:__
 
 ## 3. - Validación
 
-The validation phase is when everything seems to be ready to be integrated. The client, in general, validate the creatives without waiting for any approval from the technical team. As exposed in the Design Checklist, it is essential that developers ensure the quality of the delivery before starting to code.
+La fase de validación es cuando todo parece estar listo para ser integrado. El cliente, por lo general, valida los diseños sin esperar ninguna aprovación por parte del equipo técnico. Como se expone en la Design Checklist, es esencial que los desarrolladores se aseguren de la calidad de lo entregado antes de comenzar el desarrollo.
 
-## 4. - Development phase
+## 4. - Fase de desarrollo
 
-* [ ] All **medias can be cut and saved** before starting the development phase. That can help you to avoid back and forth between your creative software and your code editor.
+* [ ] Todos los **medios pueden ser separados y almacenados** antes de comenzar la fase de desarrollo. Eso puede ayudar a evitar cambiar constantemente entre tus aplicaciones de diseño y tu editor de código.
 
-* [ ] **The image folder has a clear architecture** where you  arranged the layout's images. It is important to stay consistent between projects in general. Defining a structure for that folder and a naming convention can be helpful.
+* [ ] La **carpeta de imágenes tiene una arquitectura clara** donde organices la estructura de las imágenes. Es importante permanecer consistente entre los proyectos. Definir la estructura para estas carpetas y tener una nomenclatura definida puede ser de ayuda.
 
 
-  You can find an example of a possible structure with prefixes used to recognise each image appurtenance.
+  Este es un ejemplo de una posible estructura con prefijos usados para reconocer la utilidad de cada imagen.
 
 ```bash
 .
-└── images
-    ├── background
+└── imágenes
+    ├── fondos
     ├── banners
-    ├── icons
-    └── layout
+    ├── iconos
+    └── diseño
 ```
 
-* [ ] **A naming convention is used** like adding prefixes to diferenciate types of images, all images used for background can be prefixed by `bg-`, icons by `icon-`, hero banners by `hero-` or `banner-` and so on.
+* [ ] **Se usa una nomenclatura**, como añadir prefijos para diferenciar los tipos de imagen, todas las imágenes usadas para fondos pueden tener el prefijo `fondo-`, iconos el prefijo `icono-`, banners el prefijo `banner-` y así sucesivamente. 
 
-## 5. - Before production
+## 5. - Antes de producción
 
-Before launching your website, be sure to review all your pages using the [Front-End Checklist](https://frontendchecklist.io)!
+Antes de publicar tu sitio web, asegurate de revisar todas tus páginas usando la [Front-End Checklist-ES](https://github.com/eoasakura/Front-End-Checklist-ES)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
 ---
 
 ## Translations
 
-The Front-End Design Checklist will be soon available in other languages. Don't hesitate if you want to help for forking this repository and start with a translation in your language!
+La Front-End Design Checklist estará disponible pronto en otros idiomas. No dudes en ayudar haciendo fork a este repositorio y comenzando con la traducción en tu idioma.
+
+* E🇳 English: [JohnsenZhou/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+* 🇨🇳 Chinese: [JohnsenZhou/Front-End-Design-Checklist](https://github.com/JohnsenZhou/Front-End-Design-Checklist)
 
 ## Support
 
-If you have any question or suggestion, don't hesitate to use Gitter or Twitter:
+Si tienes alguna sugerencia o pregunta, no dudes en usar Gitter o Twitter:
 
 * [Give an UP on Product Hunt](https://www.producthunt.com/posts/front-end-design-checklist)
 * [Chat on Gitter](https://gitter.im/Front-End-Checklist][28]/Front-End-Design-Checklist?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 * [Facebook](https://www.facebook.com/frontenddesignchecklist/)
 * [Twitter](https://twitter.com/thedaviddias)
 
-## Author
+## Autor
 
 **[David Dias](https://github.com/thedaviddias)**
 
-## Contributors
+## Colaboradores
 
-This project exists thanks to all the people who [contribute!](.github/CONTRIBUTING.md)
+Este proyecto existe gracias a las personas que [contribuyeron](.github/CONTRIBUTING.md)
 
-## License
+## Licencia
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-All icons are provided by [Icons8](https://icons8.com/)
+Iconos proporcionados por [Icons8](https://icons8.com/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
 
 [6]:	https://guideguide.me/
