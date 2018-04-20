@@ -14,9 +14,9 @@
 	* [1.3 Fuentes y textos](#13---fuentes-y-textos)
 	* [1.4 Enlaces y navegación](#14---enlaces-y-navegación)
 	* [1.5 Images / Icons](#15---images--icons)
-	* [1.6 Forms and buttons](#16---forms-and-buttons)
-	* [1.7 Responsive Web Design](#17---responsive-web-design)
-	* [1.8 Style Guide and component approach](#18---style-guide-and-component-approach)
+	* [1.6 Formularios y botones](#16---formularios-y-botones)
+	* [1.7 Diseño Web Responsivo](#17---diseño-web-responsivo)
+	* [1.8 Guía de estilos y enfoque de componentes](#18---guia-de-estilos-y-enfoque-de-componentes)
 	* [1.9 Delivery files](#19---delivery-files)
 * **[2. Analysis and pre-work phases](#2---analysis-and-pre-work-phases)**
 	* [2.1 Paper analysis](#21---paper-analysis)
@@ -184,7 +184,7 @@ __Recursos adicionales:__
   __Recursos:__
   * 📖 [Primary & Secondary Action Buttons – UX Planet](https://uxplanet.org/primary-secondary-action-buttons-c16df9b36150)
 * [ ] Un ejemplo de los **diferentes estados de un botón** fueron proporcionados (estados default, hover, focused, pressed e inactive)
-* [ ] Botones con **indicadores de carga** incorporados son proporcionados y pueden aplicarse a cualquier boton.
+* [ ] Botones con **indicadores de carga** incorporados son proporcionados y pueden aplicarse a cualquier botón.
 
 __Recursos adicionales:__
 
@@ -197,72 +197,72 @@ __Recursos adicionales:__
 
 **[⬆ volver a arriba](#tabla-de-contenidos)**
 
-### 1.7 - Responsive Web Design
+### 1.7 - Diseño Web Responsivo
 
 ![Responsive](/images/responsive.png)
 
-* [ ] The **mobile version** of the design is provided before or at the same time of the desktop version.
+* [ ] La **versión móvil** del diseño fue proporcionado antes o al mismo tiempo que la versión para escritorio.
 
-	> If the “**mobile first**” thinking was not followed by the creative team, some irregularities and inconsistencies may appear between the mobile and the desktop version. Check and flag these issues before starting the development of the project.
-* [ ] The **tablet version** of the design in certain cases should be provide too.
+	> Si el método **móvil primero** no fue aplicado por el equipo creativo, algunas irregularidades e inconsistencias pueden aparecer entre la versión móvil y la versión de escritorio. Verifica y marca estos problemas antes de iniciar el desarrollo del proyecto.
+* [ ] En ciertos casos, la **versión para tabletas** del diseño es proporcionada.
 
-⚠️ *The **pixel perfect** notion is today in a certain way deprecated. Today, it’s impossible to have a design that worked the same facing the multitude of the screen sizes.*
+⚠️ *El concepto **pixel perfecto** hoy en día está obsoleto. Es imposible tener un diseño que funcione de la misma forma frente a la multitud de tamaños de pantalla existentes.*
 
-__Additional Resources:__
+__Recursos adicionales:__
 
 * 📖 [Official Google Webmaster Central Blog: Mobile-first Indexing](https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
-### 1.8 - Style Guide and component approach
+### 1.8 - Guía de estilos y enfoque de componentes
 
 ![Styleguide](/images/styleguide.png)
 
-* [ ] All components designed on each page were created with the **component based approach**  (Atomic Design). If not, issues can occur in terms of performance, maintainability of the project...
+* [ ] Todos los componentes en cada página fueron creados con el **enfoque basado en componentes** (Diseño Atómico). Si no es asi, pueden ocurrir problemas en terminos de rendimiendo, mantenimiento del proyecto, etc.
 
-  __Resources:__
+  __Rescursos:__
   * 📖 [Atomic design][16]
   * 📖 [6 Reasons for Component-Based UI Development](https://www.tandemseven.com/technology/6-reasons-component-based-ui-development/)
 
-* [ ] A **Style Guide** needs to be provided listing all elements, components, styles, dimensions. Some boilerplates like [UX Power Tools](https://www.uxpower.tools/) can help saving time and keep consistency in the designs.
+* [ ] Una **Guía de estilo** necesita ser proporcionada listando todos los elementos, componentes, estilos y dimensiones. Algunos boilerplates como [UX Power Tools](https://www.uxpower.tools/) pueden ayudar a ahorrar tiempo y mantener consistencia en los diseños.
 
-⚠️ *In the case where the Style Guide is missing, it's a good practice to build yourself a [living Style Guide](https://github.com/davidhund/styleguide-generators) to faciliate your work. Some CMS like Drupal, for example, have plugins that allow to develop a living Style Guide using [Pattern Lab](https://drupal-pattern-lab.github.io/).*
+⚠️ *En el caso de no contar con una Guía de estilo, es recomendable construir una [Guía de Estilos](https://github.com/davidhund/styleguide-generators) para facilitar tu trabajo. Algunos CMS como Drupal, tienen plugins que permiten desarrollar Guías de Estilo usando [Pattern Lab](https://drupal-pattern-lab.github.io/).*
 
-__Additional Resources:__
+__Recursos adicionales:__
 
 * 📖 [Style Guides – Design + Sketch – Medium](https://medium.com/sketch-app-sources/tagged/style-guides)
 * 📖 [The CodePen Design Patterns and Style Guide](https://codepen.io/guide)
 * 📖 [Lonely Planet Travel Guides and Travel Information](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 * 📖 [Styleguide](https://www.yelp.com/styleguide)
 
-#### In the case of an existing project:
+#### En el caso de un proyecto existente:
 
-Sometimes, the creative team needs to add new pages or modules in an existing project. They should have or create a list of all existing elements and try to use what is already there. Having a Style Guide already created can save hours and ensure consistency of the project.
+A veces, el equipo creativo necesita añadir páginas nuevas o módulos en un proyecto existente. Ellos deben tener o crear una lista de todos los elementos existentes e intentar usar lo que ya está ahí. Tener una Guia de Estilos ya creada puede salvar horas de trabajo y asegurar la consistencia del proyecto. 
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ Volver a arriba](#tabla-de-contenidos)**
 
-### 1.9 - Delivery files
+### 1.9 - Entrega de archivos
 
-![Delivery files](/images/delivery-files.png)
+![Entrega de archivos](/images/delivery-files.png)
 
-* [ ] For all websites, the web designer needs to provide at least **2 PSD** (mobile, desktop and eventually tablet) or at least **1 Sketch file** which needs to be delivered with the dimension below (if you have Photoshop CC 2015 and above, I recommend using artboards).
+* [ ]  Para todos los sitios web, el diseñador web necesita proporcionar al menos **2 PSD** (móvil, escritorio y eventualmente tableta) o al menos **1 archivo Sketch** que debe ser entregado con las medidas debajo (si usas Photoshop CC 2015 o superior, recomiendo usar artboards)
 
-	> ℹ️ Some web designers could eventually create multiple PSD corresponding to each components used and import them in a single PSD as “smart layer”. In that case, you’ll have multiple PSD linked to one or two files. In the case of Sketch, since the **libraries** exist since version 47, it is possible to link multiples files with symbols ……..
+	> ℹ️ Algunos diseñadores web podrían crear multiples PSD correspondientes a cada componenete usado y los importan en un solo PSD como "capas inteligentes". En ese caso, tendrás multiples PSD enlazados a uno o más archivos. En el caso de Sketch, desde que las **librerias** existen desde la versión 47, es posible enlazar multiples archivos con símbolos.
 
-* [ ] The **creative files are cleaned** before delivering to developers (empty and uneccessary layer needs to be removed to avoid large files).
+* [ ] Los **archivos de diseño son limpiados** antes de entregar a los desarrolladores (se removieron capas innecesarias para evitar archivos grandes)
 
-* [ ] The **404 error** (and eventually the page 500 error) page were designed.
-* [ ] All **popins, popups and alert boxes** were designed and can be enable throw layers of compositions.
+* [ ] La página de **error 404** (y eventualmente la página de error 500) fue diseñada.
+* [ ] Todos los **popins, popups y cajas de alerta** fueron diseñados y pueden ser habilitados a treves de capas en la composición.
 
-__Additional Resources:__
+__Recursos adicionales:__
 
 * 📖 [Photoshop Etiquette: A Guide to Discernible Web Design](http://photoshopetiquette.com/)
 
-#### Specific rules for PSD file:
+#### Reglas específicas para archivos PSD:
 
-* [ ] **Layer compositions** are used to show each different pages, if multiple views are provided within the same PSD. It’s an easy way to avoid confusions and check that all elements are correctly organized.
+* [ ] **Composiciones en capas** son usadas para mostrar cada página si se proporcionan multiples vistas dentro del mismo PSD. Es una manera fácil de evitar confusiones y verificar que todos los elementos están organizados correctamente.
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
 ## 2. - Analysis and pre-work phases
 
