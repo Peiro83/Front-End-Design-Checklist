@@ -12,7 +12,7 @@
 	* [1.1 Sistema de retículas](#11---sistema-de-retículas)
 	* [1.2 Colores](#12---colores)
 	* [1.3 Fuentes y textos](#13---fuentes-y-textos)
-	* [1.4 Links and navigation](#14---links-and-navigation)
+	* [1.4 Enlaces y navegación](#14---enlaces-y-navegación)
 	* [1.5 Images / Icons](#15---images--icons)
 	* [1.6 Forms and buttons](#16---forms-and-buttons)
 	* [1.7 Responsive Web Design](#17---responsive-web-design)
@@ -142,33 +142,33 @@ __Recursos adicionales:__
 
 **[⬆ volver a arriba](#tabla-de-contenidos)**
 
-### 1.4 - Links and navigation
+### 1.4 - Enlaces y navegación
 
-![Links and navigation](/images/links.png)
+![Enlaces y navegación](/images/links.png)
 
-* [ ] All **links have a default, hover, focus, active and visited state** clearly defined (the Style Guide is the best document to specified these).
-* [ ] Alternate views of all navigation states (hover, active/current page).
+* [ ] Todos los **enlaces tienen los estados default, hover, focus, active y visited** claramente definidos (la Guía de Estilos es el mejor documento para especificar estos)
+* [ ] Vistas alternadas de todos los estados de navegación (hover, active, página actual).
 
-### 1.5 - Images / Icons
+### 1.5 - Imágenes / Iconos
 
-![Images](/images/images.png)
+![Imágenes](/images/images.png)
 
-* [ ] A **favicon image** with at least 512px X 512px is provided in PNG format. The generation of all the others Favicons can be easily done with online tools.
+* [ ] Una **imagen favicon** de almenos 512px X 512px es proporcionada en formato PNG. La generación de los demás Favicons pueden ser hechas fácilmente con herramientas en línea.
 
-  __Resources:__
+  __Recursos:__
   * [Favicon Generator for all platforms: iOS, Android, PC/Mac...](https://realfavicongenerator.net/)
 
-* [ ] All icons are provided in **SVG format**, each in the same square dimension, in black and in a separated folder.
+* [ ] Todos los íconos son proporcionados en **formato SVG**, cada uno en la mismas dimensiones, en negro y por carpetas separadas.
 
-  __Resources:__
+  __Recursos:__
   * 🛠 [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
 
-* [ ] The **name of each icon** starts with `icon-` and is entirely in lowercase (without any space and using dashes to separate each word).
+* [ ] El **nombre de cada icono** comienca con `icono-` y solo en minúsculas (sin ningún espacio y usando `-` para separar cada palabra).
 
-__Additional Resources:__
+__Recursos adicionales:__
 * 📖 [Essential Image Optimization](https://images.guide/)
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ volver a arriba](#tabla-de-contenidos)**
 
 ### 1.6 Forms and buttons
 
