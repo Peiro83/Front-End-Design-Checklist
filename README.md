@@ -18,7 +18,7 @@
 	* [1.7 Diseño Web Responsivo](#17---diseño-web-responsivo)
 	* [1.8 Guía de estilos y enfoque de componentes](#18---guia-de-estilos-y-enfoque-de-componentes)
 	* [1.9 Delivery files](#19---delivery-files)
-* **[2. Fases de análisis y previo al trabajo](#2---fases-de-análisis-y-previo-al-trabajo)**
+* **[2. Fases de análisis y previo al desarrollo](#2---fases-de-análisis-y-previo-al-desarrollo)**
 	* [2.1 Análisis en papel](#21---análisis-en-papel)
 	* [2.2 Fase antes del desarrollo](#22---fase-antes-del-desarrollo)
 * **[3. Validation](#3---validation)**
@@ -264,7 +264,7 @@ __Recursos adicionales:__
 
 **[⬆ volver a arriba](#tabla-de-contenidos)**
 
-## 2. - Fases de análisis y previo al trabajo
+## 2. - Fases de análisis y previo al desarrollo
 
 ![Analysis and phases](/images/phases.png)
 
