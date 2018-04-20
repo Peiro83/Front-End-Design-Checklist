@@ -349,7 +349,7 @@ Antes de publicar tu sitio web, asegurate de revisar todas tus páginas usando l
 
 La Front-End Design Checklist estará disponible pronto en otros idiomas. No dudes en ayudar haciendo fork a este repositorio y comenzando con la traducción en tu idioma.
 
-* E🇳 English: [JohnsenZhou/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
+* E🇳 English: [Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 * 🇨🇳 Chinese: [JohnsenZhou/Front-End-Design-Checklist](https://github.com/JohnsenZhou/Front-End-Design-Checklist)
 
 ## Support
