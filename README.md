@@ -13,7 +13,7 @@
 	* [1.2 Colores](#12---colores)
 	* [1.3 Fuentes y textos](#13---fuentes-y-textos)
 	* [1.4 Enlaces y navegación](#14---enlaces-y-navegación)
-	* [1.5 Images / Icons](#15---images--icons)
+	* [1.5 Imágenes / Iconos](#15---imágenes--iconos)
 	* [1.6 Formularios y botones](#16---formularios-y-botones)
 	* [1.7 Diseño Web Responsivo](#17---diseño-web-responsivo)
 	* [1.8 Guía de estilos y enfoque de componentes](#18---guia-de-estilos-y-enfoque-de-componentes)
@@ -21,7 +21,7 @@
 * **[2. Fases de análisis y previo al desarrollo](#2---fases-de-análisis-y-previo-al-desarrollo)**
 	* [2.1 Análisis en papel](#21---análisis-en-papel)
 	* [2.2 Fase antes del desarrollo](#22---fase-antes-del-desarrollo)
-* **[3. Validation](#3---validation)**
+* **[3. Validación](#3---validación)**
 * **[4. Development phase](#4---development-phase)**
 * **[5. Before production](#5---before-production)**
 
@@ -287,15 +287,15 @@ Antes de iniciar las fases de  análisis y previo al trabajo y después de recib
 
 Se recomienda **imprimir** algunas (o todas) las páginas que tengas en formato A3 (o A4 si no posees ese formato). Debido al alto de la página, probablemente necesites imprimir algunos diseños en multiples páginas.
 
-No puedo imaginar una mejor forma de iniciar que analisando los diseños en papel con un lapiz (o diferentes lapices de colores seleccionados para resaltar diferentes tipos de información).
+No puedo imaginar una mejor forma de iniciar que analizando los diseños en papel con un lapiz (o diferentes lapices de colores seleccionados para resaltar diferentes tipos de información).
 
-1. Define la **estructura de las páginas**, encabezados, secciones, artículos, área principal, pie de página destacando estos al  menos en una página impresa.
+1. Define la **estructura de las páginas**, encabezados, secciones, artículos, área principal, pie de página, destacando estos al  menos en una página impresa.
 
 2. Encuentra todos los **encabezados** en la estructura de página, asegurate que la etiqueta `H1`no se encuentre en el logo y que el orden lógico sea seguido. La mayoría de la veces, el H1 en la página de inicio será ocultado con CSS pero necesita mantener su significado legítimo. El análisis debe ser realizado con la ayuda de un especialista en SEO en caso de contar con uno en el equipo.
 
 3. Intenta encontrar y reagrupar **componentes similares** asignandoles un nombre individual de acuerdo a su funcionalidad y no solo por su contexto.
 
-4. La mayoría de los elementos de diseño pueden realizarse *usando CSS*. Hoy en día, es recomendado no usar ningun elemento de estructura usando imágenes. Cualquier elemento gráfico simple, como botones o bordes pueden ser echos en CSS para evitar problemas de rendimiento o escalabilidad.
+4. La mayoría de los elementos de diseño pueden realizarse *usando CSS*. Hoy en día, es recomendado no usar ningun elemento de la estructura con imágenes. Cualquier elemento gráfico simple, como botones o bordes pueden hacerse con CSS para evitar problemas de rendimiento o escalabilidad.
 
 5. Encuentra **posibles faltas de coherencia** en caso de no recibir una Guia de Estilo del equipo creativo, es tu responsabilidad asegurar que cada elemento gráfico pertenezca a una categoría (botones, tipografía, sliders,etc.). Te ayudará a crear tu propia arquitectura CSS/Sass o identificar cuáles componentes necesitarás de determinado Framework CSS.
 
@@ -313,7 +313,7 @@ __Recursos adicionales:__
 
 **[⬆ volver a arriba](#tabla-de-contenidos)**
 
-## 3. - Validation
+## 3. - Validación
 
 The validation phase is when everything seems to be ready to be integrated. The client, in general, validate the creatives without waiting for any approval from the technical team. As exposed in the Design Checklist, it is essential that developers ensure the quality of the delivery before starting to code.
 
