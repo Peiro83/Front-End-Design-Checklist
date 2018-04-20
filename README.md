@@ -170,7 +170,7 @@ __Recursos adicionales:__
 
 **[⬆ volver a arriba](#tabla-de-contenidos)**
 
-### 1.6 Formularios y botones
+### 1.6 - Formularios y botones
 
 ![Formularios](/images/form.png)
 
